@@ -1,0 +1,22 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql"
+  ],
+  "author": "NCKong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "knex": "^0.95.15",
+    "mysql2": "^2.3.3",
+    "objection": "^3.0.1"
+  }
+}
